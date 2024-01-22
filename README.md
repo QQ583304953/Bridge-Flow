@@ -8,6 +8,8 @@ Abstract：Through examples of coordinate and probability transformation between
 
 Keywords: generative artificial intelligence; bridge-type innovation; generative flow; latent space; deep learning
 
+https://arxiv.org/abs/2401.10299
+
 从标准化流隐空间中生成新桥型的尝试
 
 张洪俊
